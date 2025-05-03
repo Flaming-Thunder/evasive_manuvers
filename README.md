@@ -1,6 +1,5 @@
 ## Puzzle Park
-This Datapack is made for Parkour, Puzzles, Minigames and Ect...
-Specifically a Game Creator datapack
+This Datapack is made for Parkour and Parkour Puzzles
+a Datapack Made for Movement and Movement Restrictions
 
-Thank you Ofek for giving me Access to your datapack compiler!
-Without it this would be a mess...
+Heavy Thanks To RacconJohn for Helping Delepoment making Everything Possible
